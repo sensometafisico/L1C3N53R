@@ -1,0 +1,20 @@
+#------------------------------------------------------   
+# RLM license file - client license - PACE GmbH - 2026   
+#------------------------------------------------------   
+#    
+# Customer:     Cranfield University    
+# Recipient:    Ravi Schencks (software@cranfield.ac.uk)    
+# Type:         Permanent   
+# Host ID:      005056810026    
+# Hostname:     CCLIC-1    
+# Disk:         d49c2e71    
+# First issued: 27-07-2015   
+# Last Update:  27-07-2015   
+#   
+      
+#   
+HOST cclic-1.central.cranfield.ac.uk 005056810026 5053
+ISV pacegmbh  
+LICENSE pacegmbh rlm_roam 1.0 permanent uncounted hostid=ANY
+  _ck=e91efcbdc3 sig="60P0452D8DM615FNC0VMFGQMRAS4H9G25CR9E1G22GEKHPHJ
+  RBMXEJ9JDQGSJ9PHC9U4HSVA2G"

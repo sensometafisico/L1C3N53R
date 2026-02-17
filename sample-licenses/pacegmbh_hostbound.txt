@@ -1,0 +1,51 @@
+#--------------------------------------------------          
+# RLM license file - hostbound - PACE GmbH - 2026       
+#--------------------------------------------------        
+#        
+# Ticket:       51238543593       
+# Customer:     Aseslan       
+# Recipient:    Murat Alper Sayici       
+# Type:         Temporary       
+# Scheme:       Hostbound       
+# Host ID:      24be05e10999       
+# Hostname:     TSHOCAOGLU-WS3       
+# Disk:         9046ad41       
+# FirstIssued:  09-06-2021       
+# LastUpdate:   16-12-2024      
+##       
+LICENSE pacegmbh plengineeringworkbench 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=add9fc4695 sig="60P0452H20TJNFCSECYWYWEWRT47
+  5EEQUN57F5022GY6XJ5KW93VMCHUPWDFQ18NMU2Y4PUKRV"
+LICENSE pacegmbh plengineeringworkbench2d 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=43d9fc0431 sig="60P0451PA32454K88SQBR4AJ7HSW
+  WGSTW1XH5H022HTCEGNQBABDF9C937QVKMK9C6YDAA2TG8"
+LICENSE pacegmbh plengineeringworkbench3d 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=44d9fcd96b sig="60P0451E8WDR0GE8VJDACPD6BPFX
+  NTNVDU2PM6022HXD5QMMUTMNDTGFF6A745WRU951D69TPC"
+LICENSE pacegmbh plstepimportexport 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=58d9fc6b6b sig="60P04509J44BSYR215B9CHERYVAJ
+  W9TGD4XXJWR22H94MU5SJKK2D02H209KJ038K469XCQKVC"
+LICENSE pacegmbh ploptimization 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=86d9fc183d sig="60P0450Q4QURDPM6UHAV87YWTAU0
+  TN5M88PG8E022G7Q4A9VGQ50SECGHEE60YF22UUD2RNRM0"
+LICENSE pacegmbh pltradestudy 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=a8d9fc656a sig="60PG451APS6YAD9PKJB5X6YMB21P
+  7DCJJB66AMR22M08AN8WF3UB81SXYN3GE8GYYXTKGAAF9QF0"
+LICENSE pacegmbh plknowledgedesigner 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=70d9fce567 sig="60P04514J6VRQFAF2CDGMGUUH7KW
+  WY9X3D77AK822HT0V0G55NNVXK0D3G311WNR4RP39A9SPM"
+LICENSE pacegmbh plknowledgedesigner2d 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=06d9fcff98 sig="60P0453F4PVTTW1FC7YRSTCD52HS
+  18RQVUWBJDG22HQMKVBUPG5W5P8PDQNA33173N9SHJ2CRC"
+LICENSE pacegmbh plknowledgedesigner3d 8.2 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=07d9fccc93 sig="60P0453M3QR9JQ2YG7MGPGBXQPSP
+  0CUS2E8DXHG22H5V0PBPG7338HEWQVQV2NN5E19FVC9GNV"
+LICENSE pacegmbh plapd 8.2 31-dec-2026 uncounted hostid=24be05e10999
+  _ck=94d9fca569 sig="60P0452UYF3T5YME4KWTYV62AK1WN313S0CU1C022G3CVVQS
+  FATG29M9B9R92P51BCMS9REJK4"
+LICENSE pacegmbh desmocreator 9.1 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=8bd9fc4a95 sig="60P0452SFBH8JPGDAABMU99GS572
+  SBQPQY32REG22GUQHKSAPNFRVKQFD1A2WJ4QK9BEMFY4G0"
+LICENSE pacegmbh desmomodeler 9.1 31-dec-2026 uncounted
+  hostid=24be05e10999 _ck=83d9fca567 sig="60P0450DUDKJ1JN17C1RX05SWCWD
+  PP3NMPFB03022GGC91MQABQNF9J4GCYXUP5EHPC70CWMYG"

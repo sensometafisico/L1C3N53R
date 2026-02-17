@@ -1,0 +1,76 @@
+#-----------------------------------------------------       
+# RLM license file - server license - PACE GmbH - 2026     
+#-----------------------------------------------------       
+#        
+# Ticket:       51845337293    
+# Customer:     Cranfield University       
+# Recipient:    Ravi Schencks (software(at)cranfield.ac.uk)       
+# Type:         Permanent       
+# Scheme:       Floating       
+# Host ID:      005056810026       
+# Hostname:     CCLIC-1       
+# Disk:         d49c2e71       
+# FirstIssued:  27-07-2015       
+# LastUpdate:   15-12-2024    
+#       
+HOST cclic-1.central.cranfield.ac.uk 005056810026 5053
+ISV pacegmbh  
+#          
+# enable usage on VM          
+#        
+LICENSE pacegmbh rlm_server_enable_vm 1.0 31-dec-2026 1
+  hostid=005056810026 _ck=c337fc232e sig="60PG4580GH54FDEFSPJYTT9KXGT0
+  B2CGXA2GGASQ08A5M1K4VNYXBQ0JRFDGFVXHN7562897AJ60"
+##     
+LICENSE pacegmbh plsysarc 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=f4d69f353b sig="60PG4580GM5DCW0WMSK41V8S91SKMFWJ
+  B7EXAQV708A66622CFTEXCFX7HMQDXJ1BP2A7Q6NDSJG"
+LICENSE pacegmbh plapd 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=94d69fe23d sig="60P0451U9GSCKRX3RHWBTAKMFSB4C06X
+  NGPYN8R22HYTC8XBECN3S0QACAH513GBWR28KH0B0G"
+LICENSE pacegmbh plapi 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=99d69fee75 sig="60P0450QQ7A9A59T72AQ7P5P4PD5W1GS
+  8T2FNU822HXK48RN57T2GX8JKVPAJYTH4KWBDPAAS4"
+LICENSE pacegmbh plengineeringworkbench 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=add69fd496 sig="60P0452YG7FM5GT46U14SHDQ
+  8RQ87XETCGBAG4022GMTPMHKEW4R4S2C4G3HWC5TX0E08K7WY8"
+LICENSE pacegmbh plengineeringworkbench2d 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=43d69f3205 sig="60P0451XJ0G7903XMHG2X2TD
+  1A6NFK6C6NYX5UR22HR1NWG3WYRR0NUCSF8G39KWEU3BBVFY18"
+LICENSE pacegmbh plengineeringworkbench3d 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=44d69ff138 sig="60P0452GYKY8EGEYD31MV8XY
+  GYAMR8KPH3M4MX022GM13J1AW1M8B1EDF6AVEANJETSCXMEER0"
+LICENSE pacegmbh plstepimportexport 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=58d69faf6d sig="60P0452Q58YAVQVAWA7CNU33
+  VR6ER8W4BGESGMG22G294616NDHS96AR15Y1678H7WCSKUEQFV"
+LICENSE pacegmbh ploptimization 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=86d69f4510 sig="60P04508EEQ48M6ND93NE77GT3AUNPTF
+  DEPVKYG22H6UBJKE842RNE0GN83PWMQBQFUW22YQ98"
+LICENSE pacegmbh pltradestudy 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=a8d69f8c6d sig="60PG452W11FYSD5TKM9UHVVD04CMAYGQ
+  KTFR05R22M0886UETJP554TPF3NH6TECNUYQMT5XER60"
+LICENSE pacegmbh plknowledgedesigner 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=70d69f2507 sig="60P0453F5VBPXC34TMM6FPNV
+  GKPJTDQCMUSJ7AG22H8AGQ3RMCYFKQHKREUKT4GDS6SRAJX39C"
+LICENSE pacegmbh plknowledgedesigner2d 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=06d69f9c3b sig="60PG4580GGV0SA5Y1YBTNHCY
+  WG5MM9UFVT3UK8JC08A3FFTC18B0QNP5XJD640PR0TKG9YA4SWUG"
+LICENSE pacegmbh plknowledgedesigner3d 8.2 31-dec-2026 1 share=uhi
+  hold=15 min_timeout=600 _ck=07d69f1d35 sig="60PG451VKQ184HYDP3KYCNUS
+  2KD4S83GJH4T0SR22M08E351M9DBF77MS0QPHU1FYQC2JCSE5130"
+LICENSE pacegmbh ploptimizerapi 8.2 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=7cd69fa66a sig="60PG4580G4GJH4D9RYHTCS7DNG9PBNMA
+  J40WWYVE08A5164XJ55AJJEXYCW9UBGUSQ2DE3V3FMDG"
+##Desmo  
+LICENSE pacegmbh desmocreator 9.1 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=8bd69fc86e sig="60P0452MBAV57C5KVXW5UFPHQS5AN8XM
+  YP94BT022GTDTN644M8Y5BHPJECHSRESD7SN3NCT54"
+LICENSE pacegmbh desmomodeler 9.1 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=83d69f290f sig="60P04523AK7FCWB4UFYPJKMFY0XD5N3S
+  JGAP31022GCXTR2SET0VHAG8AAUB5RRDCNXX1RR2DR"
+LICENSE pacegmbh desmo+ 9.1 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=c6d69f3a66 sig="60P0453JTHFBJY2NE55NFBTXPM4RAYM7
+  R9C05VR22GTHSYRNA2UFSEYNRTH0CR3K5BTM15V26M"
+LICENSE pacegmbh desmoapi 9.1 31-dec-2026 1 share=uhi hold=15
+  min_timeout=600 _ck=d5d69f5138 sig="60P045242UU4EP4EPWXKRT2KVCYXQH8W
+  WBYH6N822G73RCQJ9HNKTA8DBA0PRWEMCH5YQ9V1JG"
